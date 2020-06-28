@@ -1,0 +1,10 @@
+/ Get the total number of deaths as of 2020-06-25
+cases-and-deaths-by-date.py
+
+/ Print the case count over time for the input county (fips)
+cases-by-county.py
+
+* Plot the case count over time for the input county
+graph-cases-by-county.py
+
+Plot the case and death count over time for the input county
